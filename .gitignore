@@ -44,3 +44,5 @@ vignettes/*.pdf
 po/*~
 
 **/*.quarto_ipynb
+
+/.quarto/
