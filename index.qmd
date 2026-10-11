@@ -13,40 +13,14 @@ The goals of this retreat are:
 
 ## Participant activity
 
-Each participant should plan to bring a research activity to work on during the retreat, or be prepared to work with one or two other participants on their proposed activity. Think about what might be achieved in the 1.5 day time frame, and what might be an activity where getting input from others will be especially useful. For example, students could focus on a particular section of their thesis, which might involve literature review, writing, an application or software development. Faculty might consider some part of their current work that would benefit from some dedicated time to develop, and insights from other faculty and students, which might be a part of a research project, application, blog post, or developing teaching materials.
+Each participant should plan to bring a research activity to work on during the retreat, or be prepared to work with one or two other participants on their proposed activity. Think about what might be achieved in the 1.5 day time frame, and what might be an activity where getting input from others will be especially useful. 
 
 
 ## Program (tentative)
 
-| Day | Date | Time | Activity | Additional |
-|-----|------|------|----------|----------|
-| Wednesday | 04-Nov |  |  | |
-| | | 16:00 | Arrival |Later arrival for participants from NWU|
-| | | 19:00 | Ice breakers / games | Time to be confirmed |
-| | | 20:00 | Dinner | Time to be confirmed |
-| Thursday | 05-Nov | |  | |
-| | | 7:30-8:30| Breakfast | Time to be confirmed|
-| | | 9:00-9:15| Welcoming | DC - expectations for the retreat|
-| | | 9:15-10:30| Flash presentations (small groups) | Pitch ideas / challenges
-| | | 10:30-11:00| Tea break ||
-| | | 11:00-13:00| Small group session 1 ||
-| | | 13:00-14:00| Lunch ||
-| | | 14:30-15:00| Small group session 2 ||
-| | | 15:00-15:30| Tea break ||
-| | | 15:30-17:00| Small group session 3 ||
-| | | 17:30-20:00 | Hike / Leisure time | Time to be confirmed |
-| | | 20:00 | Dinner | Time to be confirmed|
-| Friday | 06-Nov | |  | |
-| | | 7:30-8:30| Breakfast | Time to be confirmed|
-| | | 9:00-10:00 | Last minute finalisation| |
-| | | 10:00-10:30| Tea break ||
-| | | 10:30-12:00 | Show-and-tell results |
-| | | 12:00-13:00 | Discussion / feedback |
-| | | 13:00 | Lunch || 
-| | | 14:00 | Departure || 
+| Wednesday 4 Nov | Thursday 5 Nov | Friday 6 Nov |
+|:----------------|:---------------|:-------------|
+| 16:00 Arrival (later for NWU participants)<br>19:00 Ice breakers / games\*<br>20:00 Dinner\* | 7:30 Breakfast\*<br>9:00 Welcome (DC: expectations)<br>9:15 Flash presentations: pitch ideas / challenges<br>10:30 Tea<br>11:00 Small group session 1<br>13:00 Lunch<br>14:30 Small group session 2<br>15:00 Tea<br>15:30 Small group session 3<br>17:30 Hike / leisure\*<br>20:00 Dinner\* | 7:30 Breakfast\*<br>9:00 Last minute finalisation<br>10:00 Tea<br>10:30 Show-and-tell results<br>12:00 Discussion / feedback<br>13:00 Lunch<br>14:00 Departure |
 
-## What to do before the retreat
+\* Time to be confirmed.
 
-- Make a post on the Retreat repo (XXX provide link) briefly describing the planned activity.
-- Prepare a few slides explaining the activity to show at the beginning of the retreat.
-- If you don't have one, create a GitHub account, and make sure you have the most recent versions of R, and quarto on your laptop, or any other software needed.

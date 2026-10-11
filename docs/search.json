@@ -11,21 +11,14 @@
     "href": "index.html#participant-activity",
     "title": "MuViSU Retreat 2026",
     "section": "Participant activity",
-    "text": "Participant activity\nEach participant should plan to bring a research activity to work on during the retreat, or be prepared to work with one or two other participants on their proposed activity. Think about what might be achieved in the 1.5 day time frame, and what might be an activity where getting input from others will be especially useful. For example, students could focus on a particular section of their thesis, which might involve literature review, writing, an application or software development. Faculty might consider some part of their current work that would benefit from some dedicated time to develop, and insights from other faculty and students, which might be a part of a research project, application, blog post, or developing teaching materials."
+    "text": "Participant activity\nEach participant should plan to bring a research activity to work on during the retreat, or be prepared to work with one or two other participants on their proposed activity. Think about what might be achieved in the 1.5 day time frame, and what might be an activity where getting input from others will be especially useful."
   },
   {
     "objectID": "index.html#program-tentative",
     "href": "index.html#program-tentative",
     "title": "MuViSU Retreat 2026",
     "section": "Program (tentative)",
-    "text": "Program (tentative)\n\n\n\n\n\n\n\n\n\n\nDay\nDate\nTime\nActivity\nAdditional\n\n\n\n\nWednesday\n04-Nov\n\n\n\n\n\n\n\n16:00\nArrival\nLater arrival for participants from NWU\n\n\n\n\n19:00\nIce breakers / games\nTime to be confirmed\n\n\n\n\n20:00\nDinner\nTime to be confirmed\n\n\nThursday\n05-Nov\n\n\n\n\n\n\n\n7:30-8:30\nBreakfast\nTime to be confirmed\n\n\n\n\n9:00-9:15\nWelcoming\nDC - expectations for the retreat\n\n\n\n\n9:15-10:30\nFlash presentations (small groups)\nPitch ideas / challenges\n\n\n\n\n10:30-11:00\nTea break\n\n\n\n\n\n11:00-13:00\nSmall group session 1\n\n\n\n\n\n13:00-14:00\nLunch\n\n\n\n\n\n14:30-15:00\nSmall group session 2\n\n\n\n\n\n15:00-15:30\nTea break\n\n\n\n\n\n15:30-17:00\nSmall group session 3\n\n\n\n\n\n17:30-20:00\nHike / Leisure time\nTime to be confirmed\n\n\n\n\n20:00\nDinner\nTime to be confirmed\n\n\nFriday\n06-Nov\n\n\n\n\n\n\n\n7:30-8:30\nBreakfast\nTime to be confirmed\n\n\n\n\n9:00-10:00\nLast minute finalisation\n\n\n\n\n\n10:00-10:30\nTea break\n\n\n\n\n\n10:30-12:00\nShow-and-tell results\n\n\n\n\n\n12:00-13:00\nDiscussion / feedback\n\n\n\n\n\n13:00\nLunch\n\n\n\n\n\n14:00\nDeparture"
-  },
-  {
-    "objectID": "index.html#what-to-do-before-the-retreat",
-    "href": "index.html#what-to-do-before-the-retreat",
-    "title": "MuViSU Retreat 2026",
-    "section": "What to do before the retreat",
-    "text": "What to do before the retreat\n\nMake a post on the Retreat repo (XXX provide link) briefly describing the planned activity.\nPrepare a few slides explaining the activity to show at the beginning of the retreat.\nIf you don’t have one, create a GitHub account, and make sure you have the most recent versions of R, and quarto on your laptop, or any other software needed."
+    "text": "Program (tentative)\n\n\n\n\n\n\n\n\nWednesday 4 Nov\nThursday 5 Nov\nFriday 6 Nov\n\n\n\n\n16:00 Arrival (later for NWU participants)19:00 Ice breakers / games*20:00 Dinner*\n7:30 Breakfast*9:00 Welcome (DC: expectations)9:15 Flash presentations: pitch ideas / challenges10:30 Tea11:00 Small group session 113:00 Lunch14:30 Small group session 215:00 Tea15:30 Small group session 317:30 Hike / leisure*20:00 Dinner*\n7:30 Breakfast*9:00 Last minute finalisation10:00 Tea10:30 Show-and-tell results12:00 Discussion / feedback13:00 Lunch14:00 Departure\n\n\n\n* Time to be confirmed."
   },
   {
     "objectID": "CODEOFCONDUCT.html",
@@ -33,5 +26,12 @@
     "title": "Code of Conduct",
     "section": "",
     "text": "Code of Conduct\nAll participants are expected to be respectful, inclusive and welcoming, and to follow harassment-free behaviour standards throughout the retreat. Concerns can be raised with the organisers, who will address them promptly and confidentially."
+  },
+  {
+    "objectID": "before.html",
+    "href": "before.html",
+    "title": "What to do before the retreat",
+    "section": "",
+    "text": "There is always more that we’d like to do that we have time for! The trick here is to map out one thing that would be useful to do for your work, likely achievable in the 1.5 day time frame.\nIt is also worthwhile to consider the opportunity to enage with others on this activity. If it is something that you don’t quite know how to achieve, but think that someone else’s expertise in the group might be able to get you over the line, this is possibly a wonderful activity to propose.\nFor example, students could focus on a particular section of their thesis, which might involve literature review, writing, an application or software development. Faculty might consider some part of their current work that would benefit from some dedicated time to develop, and insights from other faculty and students, which might be a part of a research project, application, blog post, or developing teaching materials.\n\nCreate an issue on the GitHub repo similar to the example, that briefly describes your planned activity.\nMake sure you have the materials needed to complete your activity on your laptop, e.g. the most recent versions of R, and quarto or any other software needed."
   }
 ]

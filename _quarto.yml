@@ -8,14 +8,23 @@ website:
     left:
       - text: Home
         href: index.qmd
+      - text: Before the retreat
+        href: before.qmd
     tools:
       - icon: github
         menu:
-          - text: Report a Bug
+          - text: Create an issue
             href: https://github.com/dicook/muvisu_retreat/issues
-  page-footer: "All participants must observe the [Code of Conduct](https://github.com/dicook/muvisu_retreat/blob/main/CODEOFCONDUCT.md)."
+      - icon: shield-check
+        text: Code of Conduct
+        href: https://github.com/dicook/muvisu_retreat/blob/main/CODEOFCONDUCT.md
+  page-footer:
+    left: "All participants must observe the [Code of Conduct](https://github.com/dicook/muvisu_retreat/blob/main/CODEOFCONDUCT.md)."
+    right: "This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      - cosmo
+      - muvisu.scss
     toc: true

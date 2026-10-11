@@ -1,0 +1,190 @@
+/* MuViSU retreat website theme
+   Adapted from MuViSU EMS Research Day 2025 formatting/SU.scss
+*/
+
+/*-- scss:defaults --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Sansation:wght@300;400;700&family=Fira+Mono:wght@400;500;700&display=swap');
+
+$font-family-sans-serif: "Sansation", sans-serif;
+$font-family-monospace: "Fira Mono", monospace;
+
+$body-bg: #ffffff;
+$body-color: #4d5356;
+$link-color: #9b7c45;
+$primary: #61223b;
+$secondary: #b79962;
+$navbar-bg: #61223b;
+$navbar-fg: #ffffff;
+$navbar-hl: #e4c98f;
+$footer-bg: #f5f3ef;
+$footer-fg: #4d5356;
+$code-color: #61223b;
+$code-bg: #f5f7f8;
+$border-color: #dedbd5;
+$headings-font-family: "Fira Mono", monospace;
+$headings-font-weight: 500;
+
+/*-- scss:rules --*/
+
+body {
+  font-family: "Sansation", sans-serif;
+  line-height: 1.65;
+  font-size: 1.04rem;
+}
+
+#quarto-content {
+  max-width: 1180px;
+  margin-inline: auto;
+}
+
+#title-block-header {
+  padding: clamp(2rem, 5vw, 4.5rem) clamp(1rem, 4vw, 3rem) 2rem;
+  margin-bottom: 2.5rem;
+  border-bottom: 5px solid #b79962;
+  background: linear-gradient(120deg, #f7f5f1 0%, #ffffff 75%);
+}
+
+#title-block-header .title {
+  color: #b79962;
+  font-family: "Fira Mono", monospace;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -0.035em;
+}
+
+#title-block-header .subtitle {
+  color: #61223b;
+  font-size: clamp(1.1rem, 2vw, 1.5rem);
+  margin-top: 1rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #61223b;
+  font-family: "Fira Mono", monospace;
+  line-height: 1.25;
+}
+
+h2 {
+  margin-top: 2.8rem;
+  padding-bottom: 0.45rem;
+  border-bottom: 2px solid #e6dfd3;
+}
+
+h3 {
+  margin-top: 1.8rem;
+}
+
+a {
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+}
+
+a:hover {
+  color: #61223b;
+}
+
+.navbar {
+  font-family: "Sansation", sans-serif;
+  box-shadow: 0 2px 8px rgba(42, 25, 31, 0.12);
+}
+
+.navbar .navbar-brand {
+  font-family: "Fira Mono", monospace;
+  font-weight: 700;
+  letter-spacing: 0.015em;
+}
+
+.navbar .nav-link {
+  font-weight: 700;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link:focus {
+  color: #e4c98f !important;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.96rem;
+}
+
+.table thead th,
+table thead th {
+  background: #61223b;
+  color: #ffffff;
+  font-family: "Fira Mono", monospace;
+  font-weight: 500;
+  vertical-align: bottom;
+}
+
+.table tbody tr:nth-child(even),
+table tbody tr:nth-child(even) {
+  background: #f7f5f1;
+}
+
+.table td, .table th,
+table td, table th {
+  padding: 0.7rem 0.8rem;
+  border-color: #dedbd5;
+}
+
+blockquote {
+  border-left: 5px solid #b79962;
+  padding: 0.7rem 1.2rem;
+  color: #4d5356;
+  background: #f5f3ef;
+}
+
+.callout {
+  border-radius: 0.25rem;
+}
+
+.callout.callout-style-simple {
+  border-left-color: #b79962;
+}
+
+code {
+  color: #61223b;
+  background-color: #f5f7f8;
+  border-radius: 0.2rem;
+  padding: 0.08rem 0.22rem;
+}
+
+pre code {
+  padding: 0;
+}
+
+#TOC {
+  font-size: 0.92rem;
+}
+
+#TOC .active {
+  color: #61223b;
+  border-left-color: #b79962;
+  font-weight: 700;
+}
+
+.page-footer {
+  margin-top: 4rem;
+  padding-top: 1.5rem;
+  border-top: 3px solid #b79962;
+  background: #f5f3ef;
+}
+
+@media (max-width: 767px) {
+  #title-block-header {
+    padding: 2rem 1rem 1.5rem;
+  }
+
+  table {
+    display: block;
+    overflow-x: auto;
+    white-space: normal;
+  }
+
+  body {
+    font-size: 1rem;
+  }
+}
