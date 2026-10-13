@@ -3,7 +3,7 @@ title: "MuViSU Retreat 2026"
 subtitle: "4-6 November, Mont Fleur, Stellenbosch"
 ---
 
-Welcome to the retreat of **MuViSU**, the Multivariate Visualisation and Statistical Understanding group. See [github.com/MuViSU](https://github.com/MuViSU) for more about the organisation and its materials.
+Welcome to the retreat of **MuViSU**, the Centre for Multi-dimensional Data Visualisation at Stellenbosch University. See [github.com/MuViSU](https://github.com/MuViSU) for more about the organisation and its materials.
 
 The goals of this retreat are:
 
@@ -20,7 +20,20 @@ Each participant should plan to bring a research activity to work on during the 
 
 | Wednesday 4 Nov | Thursday 5 Nov | Friday 6 Nov |
 |:----------------|:---------------|:-------------|
-| 16:00 Arrival (later for NWU participants)<br>19:00 Ice breakers / games\*<br>20:00 Dinner\* | 7:30 Breakfast\*<br>9:00 Welcome <br>9:15 Flash presentations: pitch ideas / challenges<br>10:30 Tea<br>11:00 Small group session 1<br>13:00 Lunch<br>14:30 Small group session 2<br>15:00 Tea<br>15:30 Small group session 3<br>17:30 Hike / leisure\*<br>20:00 Dinner\* | 7:30 Breakfast\*<br>9:00 Last minute finalisation<br>10:00 Tea<br>10:30 Show-and-tell results<br>12:00 Discussion / feedback<br>13:00 Lunch<br>14:00 Departure |
+| 16:00 Arrival (later for NWU participants)<br>19:00 Ice breakers / games\*<br>20:00 Dinner\* | 7:30 Breakfast\*<br>9:00 Welcome <br>9:15 Flash presentations: pitch ideas / challenges<br>10:30 Tea<br>11:00 Focus session 1<br>13:00 Lunch<br>14:30 Focus session 2<br>15:00 Tea<br>15:30 Focus session 3<br>17:30 Hike / leisure\*<br>20:00 Dinner\* | 7:30 Breakfast\*<br>9:00 Last minute finalisation<br>10:00 Tea<br>10:30 Show-and-tell results<br>12:00 Discussion / feedback<br>13:00 Lunch<br>14:00 Departure |
 
 \* Time to be confirmed.
 
+## Location
+
+The retreat will take place at Mont Fleur Conference Venue. Blaauwklippen Road, Stellenbosch.
+
+```{=html}
+<iframe
+  src="https://maps.app.goo.gl/VJLVgfamBuX8aKFi7"
+  width="100%" height="450" style="border:0;"
+  allowfullscreen loading="lazy"
+  referrerpolicy="no-referrer-when-downgrade"
+  title="Map of Mont Fleur Conference Venue">
+</iframe>
+```
