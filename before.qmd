@@ -2,11 +2,28 @@
 title: "What to do before the retreat"
 ---
 
+## Research activity
+
 There is always more that we'd like to do that we have time for! The trick here is to map out one thing that would be useful to do for your work, likely achievable in the 1.5 day time frame. 
 
-It is also worthwhile to consider the opportunity to enage with others on this activity. If it is something that you don't quite know how to achieve, but think that someone else's expertise in the group might be able to get you over the line, this is possibly a wonderful activity to propose. 
+It is also worthwhile to consider the opportunity to engage with others on this activity. If it is something that you don't quite know how to achieve, but think that someone else's expertise in the group might be able to get you over the line, this is possibly a wonderful activity to propose. 
 
-For example, students could focus on a particular section of their thesis, which might involve literature review, writing, an application or software development. Faculty might consider some part of their current work that would benefit from some dedicated time to develop, and insights from other faculty and students, which might be a part of a research project, application, blog post, or developing teaching materials.
+For example, students could focus on a particular section of their thesis, which might involve literature review, writing, an application or software development. Staff might consider some part of their current work that would benefit from some dedicated time to develop, and insights from other colleagues and students, which might be a part of a research project, application, blog post, or developing teaching materials.
 
-1. **Create an issue** on the [GitHub repo](https://github.com/dicook/muvisu_retreat/issues) similar to the example, that briefly describes your planned activity.
+1. **Create an issue** on the [GitHub repo](https://github.com/dicook/muvisu_retreat/issues) similar to the example, that briefly describes your planned activity. Take note: To contribute to project discussions on GitHub you'll need a free GitHub account ([sign up here](https://github.com/signup)).
 2. Make sure you have the materials needed to complete your activity  on your laptop, e.g. the most *recent versions* of R, and quarto or any other software needed.
+
+
+## Communication
+
+We'll use three channels, each for a different purpose:
+
+| Channel | Used for | Links |
+|---------|----------|----------|
+| Slack   | Getting to know each other before the retreat. Day-to-day communication during the retreat. |[Open Slack website](https://slack.com/)|
+| Email   | Official arrangements and information. | |
+| GitHub  | Project-specific information and discussion. | [Open GitHub](https://github.com/)|
+
+### GitHub
+
+You are not required to a be a GitHub expert to participate in the retreat. However, if you are interested here are some resources to get you started: [previous workshop material (Part 4a and 4c)](https://github.com/MuViSU/SASA2025_MDAG/tree/main/Part4).
