@@ -20,10 +20,10 @@ We'll use three channels, each for a different purpose:
 
 | Channel | Used for | Links |
 |---------|----------|----------|
-| Slack   | Getting to know each other before the retreat. Day-to-day communication during the retreat. |[Open Slack website](https://slack.com/)|
 | Email   | Official arrangements and information. | |
+| Slack   | Getting to know each other before the retreat. Day-to-day communication during the retreat. |[Open Slack website](https://slack.com/)|
 | GitHub  | Project-specific information and discussion. | [Open GitHub](https://github.com/)|
 
 ### GitHub
 
-You are not required to a be a GitHub expert to participate in the retreat. However, if you are interested here are some resources to get you started: [previous workshop material (Part 4a and 4c)](https://github.com/MuViSU/SASA2025_MDAG/tree/main/Part4).
+You are not required to a be a GitHub expert to participate in the retreat. <br> However, if you are interested, here are some resources from a previous workshop to get you started: [GitHub setup](https://muvisu.github.io/SASA2025_MDAG/Part4/Part4a_preparation.html), Git and GitHub integration [Git and GitHub](https://muvisu.github.io/SASA2025_MDAG/Part4/Part4c_advanced.html).
