@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "MuViSU Retreat 2026",
     "section": "",
-    "text": "Welcome to the retreat of MuViSU, the Multivariate Visualisation and Statistical Understanding group. See github.com/MuViSU for more about the organisation and its materials.\nThe goals of this retreat are:"
+    "text": "Welcome to the retreat of MuViSU, the Centre for Multi-dimensional Data Visualisation at Stellenbosch University. See github.com/MuViSU for more about the organisation and its materials.\nThe goals of this retreat are:"
   },
   {
     "objectID": "index.html#participant-activity",
@@ -18,14 +18,14 @@
     "href": "index.html#program-tentative",
     "title": "MuViSU Retreat 2026",
     "section": "Program (tentative)",
-    "text": "Program (tentative)\n\n\n\n\n\n\n\n\nWednesday 4 Nov\nThursday 5 Nov\nFriday 6 Nov\n\n\n\n\n16:00 Arrival (later for NWU participants)19:00 Ice breakers / games*20:00 Dinner*\n7:30 Breakfast*9:00 Welcome 9:15 Flash presentations: pitch ideas / challenges10:30 Tea11:00 Small group session 113:00 Lunch14:30 Small group session 215:00 Tea15:30 Small group session 317:30 Hike / leisure*20:00 Dinner*\n7:30 Breakfast*9:00 Last minute finalisation10:00 Tea10:30 Show-and-tell results12:00 Discussion / feedback13:00 Lunch14:00 Departure\n\n\n\n* Time to be confirmed."
+    "text": "Program (tentative)\n\n\n\n\n\n\n\n\nWednesday 4 Nov\nThursday 5 Nov\nFriday 6 Nov\n\n\n\n\n16:00 Arrival (later for NWU participants)19:00 Ice breakers / games*20:00 Dinner*\n7:30 Breakfast*9:00 Welcome 9:15 Flash presentations: pitch ideas / challenges10:30 Tea11:00 Focus session 113:00 Lunch14:30 Focus session 215:00 Tea15:30 Focus session 317:30 Hike / leisure*20:00 Dinner*\n7:30 Breakfast*9:00 Last minute finalisation10:00 Tea10:30 Show-and-tell results12:00 Discussion / feedback13:00 Lunch14:00 Departure\n\n\n\n* Time to be confirmed."
   },
   {
-    "objectID": "CODEOFCONDUCT.html",
-    "href": "CODEOFCONDUCT.html",
-    "title": "Code of Conduct",
-    "section": "",
-    "text": "Code of Conduct\nAll participants are expected to be respectful, inclusive and welcoming, and to follow harassment-free behaviour standards throughout the retreat. Concerns can be raised with the organisers, who will address them promptly and confidentially."
+    "objectID": "index.html#location",
+    "href": "index.html#location",
+    "title": "MuViSU Retreat 2026",
+    "section": "Location",
+    "text": "Location\nThe retreat will take place at Mont Fleur Conference Venue. Blaauwklippen Road, Stellenbosch. Open in Google Maps"
   },
   {
     "objectID": "before.html",
@@ -33,5 +33,12 @@
     "title": "What to do before the retreat",
     "section": "",
     "text": "There is always more that we’d like to do that we have time for! The trick here is to map out one thing that would be useful to do for your work, likely achievable in the 1.5 day time frame.\nIt is also worthwhile to consider the opportunity to enage with others on this activity. If it is something that you don’t quite know how to achieve, but think that someone else’s expertise in the group might be able to get you over the line, this is possibly a wonderful activity to propose.\nFor example, students could focus on a particular section of their thesis, which might involve literature review, writing, an application or software development. Faculty might consider some part of their current work that would benefit from some dedicated time to develop, and insights from other faculty and students, which might be a part of a research project, application, blog post, or developing teaching materials.\n\nCreate an issue on the GitHub repo similar to the example, that briefly describes your planned activity.\nMake sure you have the materials needed to complete your activity on your laptop, e.g. the most recent versions of R, and quarto or any other software needed."
+  },
+  {
+    "objectID": "CODEOFCONDUCT.html",
+    "href": "CODEOFCONDUCT.html",
+    "title": "Code of Conduct",
+    "section": "",
+    "text": "Code of Conduct\nAll participants are expected to be respectful, inclusive and welcoming, and to follow harassment-free behaviour standards throughout the retreat. Concerns can be raised with the organisers, who will address them promptly and confidentially."
   }
 ]
