@@ -11,7 +11,7 @@
     "href": "index.html#participant-activity",
     "title": "MuViSU Retreat 2026",
     "section": "Participant activity",
-    "text": "Participant activity\nEach participant should plan to bring a research activity to work on during the retreat, or be prepared to work with one or two other participants on their proposed activity. Think about what might be achieved in the 1.5 day time frame, and what might be an activity where getting input from others will be especially useful."
+    "text": "Participant activity\nEach participant should plan to bring a research activity to work on during the retreat, or be prepared to work with one or two other participants on their proposed activity. Think about what might be achieved in the 1.5 day time frame, and what might be an activity where getting input from others will be especially useful. Visit Before the retreat for details on how to get started."
   },
   {
     "objectID": "index.html#what-to-expect",
@@ -35,6 +35,13 @@
     "text": "Location\nThe retreat will take place at Mont Fleur Conference Venue. Blaauwklippen Road, Stellenbosch. Open in Google Maps"
   },
   {
+    "objectID": "CODEOFCONDUCT.html",
+    "href": "CODEOFCONDUCT.html",
+    "title": "Code of Conduct",
+    "section": "",
+    "text": "Code of Conduct\nAll participants are expected to be respectful, inclusive and welcoming, and to follow harassment-free behaviour standards throughout the retreat. Concerns can be raised with the organisers, who will address them promptly and confidentially."
+  },
+  {
     "objectID": "before.html",
     "href": "before.html",
     "title": "What to do before the retreat",
@@ -54,12 +61,5 @@
     "title": "What to do before the retreat",
     "section": "Communication",
     "text": "Communication\nWe’ll use three channels, each for a different purpose:\n\n\n\nChannel\nUsed for\nLinks\n\n\n\n\nEmail\nOfficial arrangements and information.\n\n\n\nSlack\nGetting to know each other before the retreat. Day-to-day communication during the retreat.\nOpen Slack website\n\n\nGitHub\nProject-specific information and discussion.\nOpen GitHub\n\n\n\n\nGitHub\nYou are not required to a be a GitHub expert to participate in the retreat.  However, if you are interested, here are some resources from a previous workshop to get you started: GitHub setup, Git and GitHub integration Git and GitHub."
-  },
-  {
-    "objectID": "CODEOFCONDUCT.html",
-    "href": "CODEOFCONDUCT.html",
-    "title": "Code of Conduct",
-    "section": "",
-    "text": "Code of Conduct\nAll participants are expected to be respectful, inclusive and welcoming, and to follow harassment-free behaviour standards throughout the retreat. Concerns can be raised with the organisers, who will address them promptly and confidentially."
   }
 ]
