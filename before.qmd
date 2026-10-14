@@ -10,7 +10,7 @@ It is also worthwhile to consider the opportunity to engage with others on this 
 
 For example, students could focus on a particular section of their thesis, which might involve literature review, writing, an application or software development. Staff might consider some part of their current work that would benefit from some dedicated time to develop, and insights from other colleagues and students, which might be a part of a research project, application, blog post, or developing teaching materials.
 
-1. **Create an issue** on the [GitHub repo](https://github.com/dicook/muvisu_retreat/issues) similar to the example, that briefly describes your planned activity. Take note: To contribute to project discussions on GitHub you'll need a free GitHub account ([sign up here](https://github.com/signup)).
+1. **Create an issue** on the [GitHub repo](https://github.com/MuViSU/muvisu_retreat/issues) similar to the example, that briefly describes your planned activity. Take note: To contribute to project discussions on GitHub you'll need a free GitHub account ([sign up here](https://github.com/signup)).
 2. Make sure you have the materials needed to complete your activity  on your laptop, e.g. the most *recent versions* of R, and quarto or any other software needed.
 
 
