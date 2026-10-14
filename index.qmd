@@ -9,11 +9,16 @@ The goals of this retreat are:
 
 - Strengthen relationships and build awareness of individual group members' skills
 - Make real progress (or solve) the identified research task / activity from a current project you are working on.
-- _Optional_: If you do not have a current project to work on, consider to develop and document applications that showcase the benefit of the Centre's software.
+- _Optional_: If you do not have a current project to work on, consider to develop and document applications that showcase the benefit of the Centre's software. 
+
+## About the facilitator
+
+[Prof. Dianne Cook](https://dicook.org/) will facilitate the retreat discussions and activities. She is a Professor of Statistics in Econometrics and Business Statistics at Monash University in Melbourne, Australia. <br>
+Dianne is a leading international expert in statistical graphics, with an emphasis on interactive visualisation of high-dimensional data and statistical inference for data visualisation. She is passionate about open source software and has published almost 50 packages on R. An impressive record of publications and citations can be viewed on her [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=_b0uchgAAAAJ&view_op=list_works&sortby=pubdate).
 
 ## Participant activity
 
-Each participant should plan to bring a research activity to work on during the retreat, or be prepared to work with one or two other participants on their proposed activity. Think about what might be achieved in the 1.5 day time frame, and what might be an activity where getting input from others will be especially useful. Visit [Before the retreat](https://dicook.github.io/muvisu_retreat/) for details on how to get started.
+Each participant should plan to bring a research activity to work on during the retreat, or be prepared to work with one or two other participants on their proposed activity. Think about what might be achieved in the 1.5 day time frame, and what might be an activity where getting input from others will be especially useful. Visit [Before the retreat](https://muvisu.github.io/muvisu_retreat/before.html) for details on how to get started.
 
 ## What to expect
 
