@@ -9,12 +9,11 @@ The goals of this retreat are:
 
 - Strengthen relationships and build awareness of individual group members' skills
 - Make real progress (or solve) the identified research task / activity from a current project you are working on.
-- _Optional_: If you do not have a current project to work on, consider to develop and document applications that showcase the benefit of the Centre's software. 
+- *Optional*: If you do not have a current project to work on, consider to develop and document applications that showcase the benefit of the Centre's software.
 
 ## About the facilitator
 
-[Prof. Dianne Cook](https://dicook.org/) will facilitate the retreat discussions and activities. She is a Professor of Statistics in Econometrics and Business Statistics at Monash University in Melbourne, Australia. <br>
-Dianne is a leading international expert in statistical graphics, with an emphasis on interactive visualisation of high-dimensional data and statistical inference for data visualisation. She is passionate about open source software and has published almost 50 packages on R. An extensive overview of her publications and citations can be viewed on her [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=_b0uchgAAAAJ&view_op=list_works&sortby=pubdate).
+[Prof. Dianne Cook](https://dicook.org/) will facilitate the retreat discussions and activities. She is a Professor of Statistics in Econometrics and Business Statistics at Monash University in Melbourne, Australia. <br> Dianne is a leading international expert in statistical graphics, with an emphasis on interactive visualisation of high-dimensional data and statistical inference for data visualisation. She is passionate about open source software and has published almost 50 packages on R. An extensive overview of her publications and citations can be viewed on her [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=_b0uchgAAAAJ&view_op=list_works&sortby=pubdate).
 
 ## Participant activity
 
@@ -22,8 +21,7 @@ Each participant should plan to bring a research activity to work on during the 
 
 ## What to expect
 
-The retreat is a chance to step away from your usual routine and work alongside
-others in a relaxed setting. You can look forward to:
+The retreat is a chance to step away from your usual routine and work alongside others in a relaxed setting. You can look forward to:
 
 - **Networking:** meet researchers from across the group and build connections that last beyond the event.
 - **Focused time:** protected time to work and discuss ideas with others, without the usual interruptions.
@@ -34,21 +32,18 @@ others in a relaxed setting. You can look forward to:
 ## Program (tentative)
 
 | Wednesday 4 Nov | Thursday 5 Nov | Friday 6 Nov |
-|:----------------|:---------------|:-------------|
-| 16:00 Arrival (later for NWU participants)<br>19:00 Ice breakers / games\*<br>20:00 Dinner\* | 7:30 Breakfast\*<br>9:00 Welcome <br>9:15 Pitch ideas / challenges from the GitHub issues <br>10:30 Tea<br>11:00 Focus session 1<br>13:00 Lunch<br>14:30 Focus session 2<br>15:00 Tea<br>15:30 Focus session 3<br>17:30 Hike / leisure\*<br>20:00 Dinner\* | 7:30 Breakfast\*<br>9:00 Last minute finalisation<br>10:00 Tea<br>10:30 Show-and-tell results<br>12:00 Discussion / feedback<br>13:00 Lunch<br>14:00 Departure |
+|:-------------------------|:------------------------|:---------------------|
+| 16:00 Arrival (later for NWU participants)<br>19:00 Ice breakers / games\*<br>20:00 Dinner\* | 7:30 Breakfast\*<br>8:30 Welcome <br>8:45 Pitch ideas / challenges from the GitHub issues <br>10:00 Tea<br>10:30 Focus session 1<br>12:30 Lunch<br>13:15 Focus session 2<br>15:15 Tea<br>15:30 Focus session 3<br>16:30 Hike / leisure\*<br>20:00 Dinner\* | 7:30 Breakfast\*<br>9:00 Last minute finalisation<br>10:00 Room check-out and Tea<br>10:30 Show-and-tell results<br>12:00 Discussion / feedback<br>13:00 Lunch<br>14:00 Departure |
 
 \* Time to be confirmed.
 
 ## Location
 
-The retreat will take place at Mont Fleur Conference Venue. Blaauwklippen Road, Stellenbosch.
-[Open in Google Maps](https://maps.app.goo.gl/VJLVgfamBuX8aKFi7)
+The retreat will take place at Mont Fleur Conference Venue. Blaauwklippen Road, Stellenbosch. [Open in Google Maps](https://maps.app.goo.gl/VJLVgfamBuX8aKFi7)
 
-```{=html}
-<iframe
+\`\`\`{=html} <iframe
   src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d3307.2551035995357!2d18.896036176559704!3d-34.01166222647401!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m0!4m5!1s0x1dcdb3a0425cf8a7%3A0xaa9fdf8daff1da18!2sMont%20Fleur%20Conference%20Venue%2C%20P.O.%20Box%20905%20Stellenbosch%2C%20Blaauwklippen%20Road%2C%207599!3m2!1d-34.0116667!2d18.8986111!5e0!3m2!1sen!2sza!4v1791870250719!5m2!1sen!2sza"
   width="100%" height="450" style="border:0;"
   allowfullscreen="" loading="lazy"
   referrerpolicy="strict-origin-when-cross-origin"
-  title="Map of Mont Fleur Conference Venue">
-</iframe>
+  title="Map of Mont Fleur Conference Venue"> </iframe>
