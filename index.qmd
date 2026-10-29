@@ -32,8 +32,8 @@ The retreat is a chance to step away from your usual routine and work alongside 
 ## Program (tentative)
 
 | Wednesday 4 Nov | Thursday 5 Nov | Friday 6 Nov |
-|:-------------------------|:------------------------|:---------------------|
-| 16:00 Arrival (later for NWU participants)<br>19:00 Ice breakers / games\*<br>20:00 Dinner\* | 7:30 Breakfast\*<br>8:30 Welcome <br>8:45 Pitch ideas / challenges from the GitHub issues <br>10:00 Tea<br>10:30 Focus session 1<br>12:30 Lunch<br>13:15 Focus session 2<br>15:15 Tea<br>15:30 Focus session 3<br>16:30 Hike / leisure\*<br>20:00 Dinner\* | 7:30 Breakfast\*<br>9:00 Last minute finalisation<br>10:00 Room check-out and Tea<br>10:30 Show-and-tell results<br>12:00 Discussion / feedback<br>13:00 Lunch<br>14:00 Departure |
+|:---|:---|:---|
+| 16:00 Arrival (later for NWU participants)<br>19:00 Ice breakers / games\*<br>20:00 Dinner | 7:30 Breakfast<br>8:30 Welcome <br>8:45 Pitch ideas / challenges from the GitHub issues <br>10:00 Tea<br>10:30 Focus session 1<br>12:30 Lunch<br>13:15 Focus session 2<br>15:15 Tea<br>15:30 Focus session 3<br>16:30 Hike / leisure<br>20:00 Dinner | 7:30 Breakfast<br>9:00 Last minute finalisation<br>10:00 Room check-out and Tea<br>10:30 Show-and-tell results<br>12:00 Discussion / feedback<br>13:00 Lunch<br>14:00 Departure |
 
 \* Time to be confirmed.
 
